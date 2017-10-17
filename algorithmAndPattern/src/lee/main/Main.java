@@ -6,7 +6,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hi Lee");
-		//git ignore Àû¿ë
+		System.out.println("Hi eclipse new branch");
 
 	}
 
